@@ -1,0 +1,9 @@
+Create the Web Service business logic. DoesMagic.java
+
+First we need to write a Java class that implements the Web Service business logic. In this case, our business logic will be a simple Java class that print sum of two number passed to it. 
+
+Deploy the Java class to the SOAP server using Axis2 Deployment tool
+Next we need to turn the Java class into a Web Service. We'll show how to deploy the Java class to a SOAP server using the Apache Axis2 deployment tool. 
+
+Client application development. TestClient.java 
+The client application treats the proxy as a standard Java object that facilitates the communication with a Web Service.

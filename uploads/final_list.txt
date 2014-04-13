@@ -1,0 +1,6 @@
+Quantity-> add quantity(done) , daily report, monthly report 
+Kilometer-> add Kilometer(done), monthly report
+Diesel-> add quantity(done) , daily report, monthly report 
+penalty-> <add database> add penalty(done), daily report, monthly report
+
+
